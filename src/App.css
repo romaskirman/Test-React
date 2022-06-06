@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+
+.plus{
+  border: 2px solid red;
+  border-radius: 5px;
+  background-color: indianred;
+  color: darkblue;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+.minus{
+  border: 2px solid blue;
+  border-radius: 5px;
+  background-color: dodgerblue;
+  font-size: 16px;
+  color: darkred;
+}
+
+#select{
+  font-size: 16px;
+  border: 2px dashed darkorchid;
+  border-radius: 2px;
+  background-color: violet;
+  width: 111px;
+  margin-top: 5px;
+}
+
+.reset{
+  width: 111px;
+  background-color: white;
+  border: 2px solid black;
+  font-size: 16px;
+  border-radius: 2px;
+  margin-top: 5px;
+}
+
+.div-form{
+  margin-top: 169px;
+}
+
+.input-field{
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 2px ridge forestgreen;
+  line-height: 20px;
+  font-size: 16px;
+  background-color: whitesmoke;
+}
+
+.clean-btn{
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  line-height: 20px;
+  font-size: 16px;
+  outline: none;
+  border: 2px ridge forestgreen;
+  border-left: none;
+  background-color: whitesmoke;
+}
